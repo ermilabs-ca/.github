@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ermilabs.ca/assets/favicons/apple-touch-icon.png" width="100" alt="ERMI Labs Logo" />
+  <img src="https://ermilabs.ca/logo.png" width="100" alt="ERMI Labs Logo" />
   <h1>ERMI Labs</h1>
   <p><strong>Enterprise IT Strategy. Tailored for Canadian SMBs.</strong></p>
 
