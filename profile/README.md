@@ -1,72 +1,60 @@
 <div align="center">
   <img src="https://ermilabs.ca/logo.png" width="100" alt="ERMI Labs Logo" />
   <h1>ERMI Labs</h1>
-  <p><strong>Enterprise IT Strategy. Tailored for Canadian SMBs.</strong></p>
+  <p><strong>Boutique Architecture Advisory for Cloud, Data & Platform Engineering.</strong></p>
 
-  [![Website](https://img.shields.io/badge/Website-ermilabs.ca-blue?style=for-the-badge&logo=firefox)](https://ermilabs.ca)
-  [![Contact](https://img.shields.io/badge/Contact-Speak_to_an_Architect-0d8b8b?style=for-the-badge&logo=maildotru)](https://ermilabs.ca/contact)
+  [![Website](https://img.shields.io/badge/Website-ermilabs.ca-0d8b8b?style=for-the-badge&logo=firefox)](https://ermilabs.ca)
+  [![Discovery Call](https://img.shields.io/badge/Book_a-Discovery_Call-0F4C81?style=for-the-badge&logo=maildotru)](https://ermilabs.ca/contact)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ERMI_Labs-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/ermilabs)
 </div>
 
 ---
 
-### 🚀 About Us
+### About Us
 
-**Stop reacting to IT issues. Start predicting growth.**
+We help engineering leaders modernize cloud infrastructure, architect data platforms, and mature their platform engineering practices.
 
-ERMI Labs is a strategic IT consultancy based in Newmarket, Ontario. We operate as a seamless extension of your team, providing the **Fractional CTO-level guidance** necessary to drive sustainable growth, not just manage tickets.
+ERMI Labs is a boutique architecture advisory firm based in Ontario. We work with scale-ups and enterprises across Canada as a focused extension of your engineering team — delivering scoped assessments, architecture blueprints, and ongoing advisory retainers with clear deliverables and full knowledge transfer.
 
-Our mission is to be the most trusted strategic IT partner for growing businesses, making enterprise-grade innovation accessible and affordable. We believe that predictable business performance requires a clear technology roadmap.
-
----
-
-### 🛠 Capabilities & Services
-
-We design solutions using industry-leading proprietary and open-source standards to ensure scalability, cost efficiency, and zero vendor lock-in.
-
-#### ☁️ Cloud Platform
-Design, migration, and management of **Public, Private, or Hybrid Cloud** environments. Secure, scalable, and optimized for cost.
-
-#### ♟️ Strategic Consulting
-Get C-Suite level advisory to align your technology with your growth goals. We deliver clear **Roadmaps, CTO Oversight,** and vendor-agnostic planning.
-
-#### ⚙️ DevOps & Automation
-Implement next-generation **CI/CD pipelines, IaC**, and developer tooling for rapid, reliable production releases.
-
-#### 📊 Data Management
-Ensure your data is clean, reliable, and secure. Services include **Data Architecture, Backups**, and BI Dashboards.
-
-#### 📱 Custom Software
-Build new **Web/Mobile Apps, APIs**, and modernize legacy systems to eliminate technical debt.
-
-#### 🖥️ Specialized Infrastructure
-High-level expertise for demanding compute needs, including **HPC, AI Clusters**, and optimized local storage solutions.
+We're not a large system integrator. We're senior architects who've spent decades building and scaling the systems that matter. Every engagement is outcome-driven, vendor-agnostic, and designed so your team owns the result.
 
 ---
 
-### 💻 Technology Stack
+### Advisory Practices
 
-We are vendor-agnostic but specialize in high-performance, industry-standard tools:
+We operate across three interconnected disciplines:
 
-| Category | Technologies |
-| :--- | :--- |
-| **Cloud** | AWS, Google Cloud (GCP), Azure, OpenStack |
-| **Containerization** | Docker, Kubernetes (K8s) |
-| **IaC & Config** | Terraform, Ansible |
-| **OS** | Linux (RHEL, Ubuntu, SUSE), Windows Server |
-| **Database** | PostgreSQL, MySQL, Hadoop |
-| **DevOps** | Jenkins, GitLab CI, GitHub Actions |
+#### ☁️ Cloud Platform Modernization
+Assess, redesign, and migrate your cloud infrastructure for performance, cost-efficiency, and reliability. We work across AWS, GCP, and Azure — with architecture reviews, cost optimization, and full migration strategy.
+
+#### 📊 Data Platform Architecture & Migration
+Design modern data architectures — lakehouse, data mesh, streaming-first — and execute complex migrations from legacy systems to cloud-native platforms with zero business disruption.
+
+#### ⚙️ Platform Engineering, DevOps & SRE
+Build internal developer platforms, mature CI/CD pipelines, and establish SRE practices that scale engineering velocity without sacrificing reliability.
 
 ---
 
-### 🤝 Our Promise
+### Our Promise
 
-* **Predictability:** We guarantee fixed-cost contracts and precise planning.
-* **Integrity:** Vendor-agnostic recommendations focused solely on your best interests.
-* **Compliance:** Built-in Canadian data privacy and regulatory compliance.
+* **Outcome-Driven:** Fixed-scope engagements with documented deliverables — not open-ended consulting hours.
+* **Vendor-Agnostic:** We recommend the right tool for your constraints, not the vendor that pays us.
+* **Knowledge Transfer:** We build platforms your team owns. No black-box deliverables.
+* **Canadian Compliance:** Built-in alignment with PIPEDA and Canadian data privacy requirements.
+
+---
+
+### Get Started
+
+The first step is a focused 30-minute discovery call — no sales pitch, just a technical conversation about your architecture challenges.
+
+📅 **[Book a Discovery Call →](https://ermilabs.ca/contact)**
+🌐 **[ermilabs.ca](https://ermilabs.ca)**
+📧 **hi@ermilabs.ca**
 
 ---
 
 <div align="center">
-  <sub>&copy; 2025 ERMI Labs. All rights reserved. <br>
-  <a href="https://ermilabs.ca/privacy">Privacy Policy</a> • <a href="https://ermilabs.ca/contact">Contact Us</a></sub>
+  <sub>&copy; 2025 ERMI Labs Inc. All rights reserved. · Ontario, Canada<br>
+  <a href="https://ermilabs.ca/privacy">Privacy Policy</a> · <a href="https://ermilabs.ca/terms">Terms</a> · <a href="https://ermilabs.ca/contact">Contact</a></sub>
 </div>
